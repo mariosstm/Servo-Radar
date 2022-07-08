@@ -26,4 +26,6 @@
 # Changes :
    * Trig Pin & Echo Pin connected to Digital PWM 9, 10 
    * Servo connected to PWM 11
+
+
 ![full project](https://user-images.githubusercontent.com/64271483/177999092-b9a6554a-86fb-4f16-bfab-47d07d20e3b4.png)
