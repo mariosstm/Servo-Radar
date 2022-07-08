@@ -17,7 +17,7 @@
 ### Software:
     * NI Labview ( v18 - newest version )
     * Arduino IDE 1.8.19
-    * Download Visa-NI Extension package from !(https://www.ni.com/en-us/support/downloads/drivers/download.ni-visa.html#442805)
+    * Download Visa-NI Extension package from the [link](https://www.ni.com/en-us/support/downloads/drivers/download.ni-visa.html#442805)
  
  
 # Schematic & Design
